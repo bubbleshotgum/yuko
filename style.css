@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+div.screen-one, div.task {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #fff;
+}
+
+div.upper-section p.score {
+    margin-bottom: 50px
+}
+
+div.upper-section, div.lower-section {
+    height: 50vh
+}
+
+div.upper-section, div.screen-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+span, button {
+    padding: 15px;
+    border: 1px solid black
+}
+
+button {
+    background: #fff
+}
+
+span.draggable {
+    position: absolute;
+    background: #fff
+}
+
+div.sensible-field {
+    display: inline;
+}
+
+div.upper-section button {
+    display: none
+}

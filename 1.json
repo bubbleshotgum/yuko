@@ -1,0 +1,8 @@
+{
+    "A quick brown fox jumps over the lazy ______": [["dog", "cat", "elephant", "donkey"], ["dog"]],
+    "Every Tuesday Sally ______ the flowers": [["waters", "rains", "pours water on"], ["waters"]],
+    "— How much is this this T-shirt? — It ______ $15.99": [["costs", "is"], ["is", "costs"]],
+    "Yesterday Tom ______ an apple": [["ate", "has eaten", "eats", "ates"], ["ate"]],
+    "What ______ Roger ______ him?": [["has, asked", "—, asked", "does, ask", "did, ask", "did, asked"], ["did, ask"]],
+    "Louis lives next door ______ Alice": [["to", "off", "near"], ["to"]]
+}
